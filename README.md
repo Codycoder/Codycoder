@@ -12,7 +12,7 @@
 - ▶️ Love writing learning resources, interacting with people and teaching code. Always learning from my students and colleagues! 
 - 📰 [Twitter](https://twitter.com/AndyKohler1) is my newspaper. 
 - 😄 Pronouns: he/him
-- 💬 Ask me about how 99% of my JavaScript errors are a missing period. 
+- 💬 Ask me about how 99% of my JavaScript problems are a missing period. 
 - 🆗 I make small monthly donations to worthy causes like [California Sun](https://www.californiasun.co/) and [freecodecamp](https://www.freecodecamp.org/).
 - 📫 How to reach me: DM me on Twitter or [try this](mailto:andykohler99@gmail.com). 
 
