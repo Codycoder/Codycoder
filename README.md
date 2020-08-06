@@ -12,7 +12,7 @@
     - Is the backend of your API running? 
     - Did you put the link to your stylesheet into your index.html? Etc. 
 - 📼 My first computer was a [Mac IIci](https://lowendmac.com/1989/mac-iici/). Nothing will ever be as sweet as that loyal box quietly running SimCity all night. 
-- 📚 Super interested in tech culture in general, especially from less-heard-from perspectives. 
+- 📚 Fascinated by the weird periphery around tech, especially less-heard-from perspectives. 
 - ▶️ Love writing technical resources, interacting with people and teaching code. Always learning from my students and colleagues! 
 - 📰 [Twitter](https://twitter.com/AndyKohler1) is my newspaper. 
 - ⭐ Medium got me interested in developing back in 2016 and [sometimes I publish things there](https://medium.com/@akohler). 
