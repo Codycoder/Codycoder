@@ -16,7 +16,7 @@
 - ▶️   Love writing technical resources, interacting with people and teaching code. Always learning from my students and colleagues! 
 - 📰   [Twitter](https://twitter.com/AndyKohler1) is my newspaper. 
 - ⭐   Medium got me interested in developing back in 2016 and [sometimes I publish things there](https://medium.com/@akohler). 
-- 😄   Pronouns: he/him
+- 😄   Pronouns: he/him/his
 - 💬   Ask me about how 99% of my JavaScript problems are based on a typo. 
 - 🆗   I make small monthly donations to worthy causes like [California Sun](https://www.californiasun.co/) and [freecodecamp](https://www.freecodecamp.org/).
 - 📫   How to reach me: DM me on Twitter or [here](mailto:andykohler99@gmail.com). 
