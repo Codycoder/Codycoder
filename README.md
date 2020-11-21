@@ -4,7 +4,7 @@
 **Codycoder/Codycoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 💾   I'm a teacher (C#/.NET Core and JavaScript) at [We Can Code It](https://wecancodeit.org/), a Cleveland, Ohio coding bootcamp.  
+- 💾   I'm a teacher (C#/.NET Core and JavaScript) at [We Can Code IT](https://wecancodeit.org/), a Cleveland, Ohio coding bootcamp.  
 - ❕   I believe anyone can learn anything if they have the passion/interest.
 - 🚗   Troubleshooting code is exactly like going through the steps to see why your car won't start. 
     - Battery charged?
@@ -19,10 +19,13 @@
 - 😄   Pronouns: he/him/his
 - 💬   Ask me about how 99% of my JavaScript problems are based on a typo. 
 - 🆗   I make small monthly donations to worthy causes like [California Sun](https://www.californiasun.co/) and [freecodecamp](https://www.freecodecamp.org/).
-- 📫   How to reach me: DM me on Twitter or [here](mailto:andykohler99@gmail.com). 
+- 📫   How to reach me:
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/AndyKohler1) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/andykohler)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codycoder&layout=compact)](https://github.com/Codycoder/github-readme-stats)
 
 [![Codycoder's github stats](https://github-readme-stats.vercel.app/api?username=Codycoder&count_private=true&show_icons=true&theme=blue-green)]
 
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
