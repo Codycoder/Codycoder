@@ -1,5 +1,9 @@
 name: Update README
 
+- name: GitHub - Activity - Readme
+  uses: codycoder/github-activity-readme@v0.3.1
+
+
 on:
   schedule:
     - cron: '*/30 * * * *'
@@ -15,3 +19,4 @@ jobs:
       - uses: Codycoder/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          c
