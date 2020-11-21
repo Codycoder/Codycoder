@@ -33,6 +33,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/Codycoder/Codycoder/pull/2) in [Codycoder/Codycoder](https://github.com/Codycoder/Codycoder)
+2. 💪 Opened PR [#2](https://github.com/Codycoder/Codycoder/pull/2) in [Codycoder/Codycoder](https://github.com/Codycoder/Codycoder)
+3. 🎉 Merged PR [#1](https://github.com/Codycoder/Codycoder/pull/1) in [Codycoder/Codycoder](https://github.com/Codycoder/Codycoder)
+4. 💪 Opened PR [#1](https://github.com/Codycoder/Codycoder/pull/1) in [Codycoder/Codycoder](https://github.com/Codycoder/Codycoder)
+<!--END_SECTION:activity-->
 
 
 ---
