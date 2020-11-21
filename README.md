@@ -23,9 +23,9 @@
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/AndyKohler1) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/andykohler)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codycoder&layout=compact)
+[![Top Langs]](https://github-readme-stats.vercel.app/api/top-langs/?username=Codycoder&layout=compact)
 
-[![Codycoder's github stats](https://github-readme-stats.vercel.app/api?username=Codycoder&count_private=true&show_icons=true&theme=blue-green)
+[![Codycoder's github stats]](https://github-readme-stats.vercel.app/api?username=Codycoder&count_private=true&show_icons=true&theme=blue-green)
 
 ### Recent Activity
 
