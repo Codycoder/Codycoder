@@ -21,6 +21,6 @@
 - 🆗   I make small monthly donations to worthy causes like [California Sun](https://www.californiasun.co/) and [freecodecamp](https://www.freecodecamp.org/).
 - 📫   How to reach me: DM me on Twitter or [here](mailto:andykohler99@gmail.com). 
 
-[![Codycoder's github stats](https://github-readme-stats.vercel.app/api?username=Codycoder)](https://github.com/Codycoder/github-readme-stats)
+[![Codycoder's github stats](https://github-readme-stats.vercel.app/api?username=Codycoder&count_private=true)](https://github.com/Codycoder/github-readme-stats)
 
 
