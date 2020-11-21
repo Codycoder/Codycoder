@@ -25,7 +25,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codycoder&layout=compact)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Codycoder&layout=compact)
 
 [![Codycoder's github stats](https://github-readme-stats.vercel.app/api?username=Codycoder&count_private=true&show_icons=true&theme=blue-green)
 
