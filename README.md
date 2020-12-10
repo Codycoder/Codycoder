@@ -33,10 +33,10 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/mjoyce10/GamePicker/pull/19) in [mjoyce10/GamePicker](https://github.com/mjoyce10/GamePicker)
-2. 🎉 Merged PR [#2](https://github.com/Codycoder/Codycoder/pull/2) in [Codycoder/Codycoder](https://github.com/Codycoder/Codycoder)
-3. 💪 Opened PR [#2](https://github.com/Codycoder/Codycoder/pull/2) in [Codycoder/Codycoder](https://github.com/Codycoder/Codycoder)
-4. 🎉 Merged PR [#1](https://github.com/Codycoder/Codycoder/pull/1) in [Codycoder/Codycoder](https://github.com/Codycoder/Codycoder)
+1. 🎉 Merged PR [#38](https://github.com/mjoyce10/GamePicker/pull/38) in [mjoyce10/GamePicker](https://github.com/mjoyce10/GamePicker)
+2. 🎉 Merged PR [#19](https://github.com/mjoyce10/GamePicker/pull/19) in [mjoyce10/GamePicker](https://github.com/mjoyce10/GamePicker)
+3. 🎉 Merged PR [#2](https://github.com/Codycoder/Codycoder/pull/2) in [Codycoder/Codycoder](https://github.com/Codycoder/Codycoder)
+4. 💪 Opened PR [#2](https://github.com/Codycoder/Codycoder/pull/2) in [Codycoder/Codycoder](https://github.com/Codycoder/Codycoder)
 <!--END_SECTION:activity-->
 
 
