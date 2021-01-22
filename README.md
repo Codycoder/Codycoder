@@ -33,10 +33,10 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/2020-Fall-Cohort/guessing-game-DouglasPenn23/pull/1) in [2020-Fall-Cohort/guessing-game-DouglasPenn23](https://github.com/2020-Fall-Cohort/guessing-game-DouglasPenn23)
-2. 🎉 Merged PR [#38](https://github.com/mjoyce10/GamePicker/pull/38) in [mjoyce10/GamePicker](https://github.com/mjoyce10/GamePicker)
-3. 🎉 Merged PR [#19](https://github.com/mjoyce10/GamePicker/pull/19) in [mjoyce10/GamePicker](https://github.com/mjoyce10/GamePicker)
-4. 🎉 Merged PR [#2](https://github.com/Codycoder/Codycoder/pull/2) in [Codycoder/Codycoder](https://github.com/Codycoder/Codycoder)
+1. 💪 Opened PR [#1](https://github.com/2020-Fall-Cohort/guessing-game-xilkas/pull/1) in [2020-Fall-Cohort/guessing-game-xilkas](https://github.com/2020-Fall-Cohort/guessing-game-xilkas)
+2. 💪 Opened PR [#1](https://github.com/2020-Fall-Cohort/guessing-game-DouglasPenn23/pull/1) in [2020-Fall-Cohort/guessing-game-DouglasPenn23](https://github.com/2020-Fall-Cohort/guessing-game-DouglasPenn23)
+3. 🎉 Merged PR [#38](https://github.com/mjoyce10/GamePicker/pull/38) in [mjoyce10/GamePicker](https://github.com/mjoyce10/GamePicker)
+4. 🎉 Merged PR [#19](https://github.com/mjoyce10/GamePicker/pull/19) in [mjoyce10/GamePicker](https://github.com/mjoyce10/GamePicker)
 <!--END_SECTION:activity-->
 
 
