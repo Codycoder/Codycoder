@@ -33,10 +33,10 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/WeCanCodeIT/food_page/pull/1) in [WeCanCodeIT/food_page](https://github.com/WeCanCodeIT/food_page)
-2. 💪 Opened PR [#1](https://github.com/WeCanCodeIT/food_page/pull/1) in [WeCanCodeIT/food_page](https://github.com/WeCanCodeIT/food_page)
-3. ❗️ Reopened issue [#1](https://github.com/WeCanCodeIT/FamilyMeals/issues/1) in [WeCanCodeIT/FamilyMeals](https://github.com/WeCanCodeIT/FamilyMeals)
-4. 💪 Opened PR [#1](https://github.com/2020-Fall-Cohort/guessing-game-xilkas/pull/1) in [2020-Fall-Cohort/guessing-game-xilkas](https://github.com/2020-Fall-Cohort/guessing-game-xilkas)
+1. ❗️ Closed issue [#3](https://github.com/WeCanCodeIT/FamilyMeals/issues/3) in [WeCanCodeIT/FamilyMeals](https://github.com/WeCanCodeIT/FamilyMeals)
+2. ❗️ Opened issue [#3](https://github.com/WeCanCodeIT/FamilyMeals/issues/3) in [WeCanCodeIT/FamilyMeals](https://github.com/WeCanCodeIT/FamilyMeals)
+3. 🎉 Merged PR [#1](https://github.com/WeCanCodeIT/food_page/pull/1) in [WeCanCodeIT/food_page](https://github.com/WeCanCodeIT/food_page)
+4. 💪 Opened PR [#1](https://github.com/WeCanCodeIT/food_page/pull/1) in [WeCanCodeIT/food_page](https://github.com/WeCanCodeIT/food_page)
 <!--END_SECTION:activity-->
 
 
