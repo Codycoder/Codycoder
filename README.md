@@ -33,10 +33,10 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#1](https://github.com/WeCanCodeIT/FamilyMeals/issues/1) in [WeCanCodeIT/FamilyMeals](https://github.com/WeCanCodeIT/FamilyMeals)
-2. 💪 Opened PR [#1](https://github.com/2020-Fall-Cohort/guessing-game-xilkas/pull/1) in [2020-Fall-Cohort/guessing-game-xilkas](https://github.com/2020-Fall-Cohort/guessing-game-xilkas)
-3. 💪 Opened PR [#1](https://github.com/2020-Fall-Cohort/guessing-game-DouglasPenn23/pull/1) in [2020-Fall-Cohort/guessing-game-DouglasPenn23](https://github.com/2020-Fall-Cohort/guessing-game-DouglasPenn23)
-4. 🎉 Merged PR [#19](https://github.com/mjoyce10/GamePicker/pull/19) in [mjoyce10/GamePicker](https://github.com/mjoyce10/GamePicker)
+1. 🎉 Merged PR [#1](https://github.com/WeCanCodeIT/food_page/pull/1) in [WeCanCodeIT/food_page](https://github.com/WeCanCodeIT/food_page)
+2. 💪 Opened PR [#1](https://github.com/WeCanCodeIT/food_page/pull/1) in [WeCanCodeIT/food_page](https://github.com/WeCanCodeIT/food_page)
+3. ❗️ Reopened issue [#1](https://github.com/WeCanCodeIT/FamilyMeals/issues/1) in [WeCanCodeIT/FamilyMeals](https://github.com/WeCanCodeIT/FamilyMeals)
+4. 💪 Opened PR [#1](https://github.com/2020-Fall-Cohort/guessing-game-xilkas/pull/1) in [2020-Fall-Cohort/guessing-game-xilkas](https://github.com/2020-Fall-Cohort/guessing-game-xilkas)
 <!--END_SECTION:activity-->
 
 
