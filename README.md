@@ -4,7 +4,7 @@
 **Codycoder/Codycoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 💾   I'm a teacher (C#/.NET Core and JavaScript) at [We Can Code IT](https://wecancodeit.org/), a Cleveland, Ohio coding bootcamp.  
+- 💾   I'm a grad and past teacher (C#/.NET Core and JavaScript) at [We Can Code IT](https://wecancodeit.org/), a Cleveland, Ohio coding bootcamp.  
 - ❕   I believe anyone can learn anything if they have the passion/interest.
 - 🚗   Troubleshooting code is exactly like going through the steps to see why your car won't start. 
     - Battery charged?
