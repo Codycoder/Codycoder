@@ -12,7 +12,7 @@
     - Did you put the link to your stylesheet into your index.html? Etc. 
 - 📼   My first computer was a [Mac IIci](https://lowendmac.com/1989/mac-iici/). Nothing will ever be as sweet as that loyal box quietly running SimCity all night. 
 - 📚   Fascinated by the periphery around tech, especially less-heard-from perspectives. 
-- ▶️   Love reading/writing technical resources, interacting with people and teaching code. Always learning from others! 
+- ▶️   Love reading/writing technical resources, interacting with people and sharing knowledge. Always learning from others! 
 - 📰   [Twitter](https://twitter.com/AndyKohler1) was my newspaper but I've backed off a bit.  
 - ⭐   Medium got me interested in developing back in 2016 and [sometimes I publish things there](https://medium.com/@akohler). 
 - 😄   Pronouns: he/him/his
