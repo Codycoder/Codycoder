@@ -20,26 +20,3 @@
 - 📫   How to reach me:
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/AndyKohler1) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/andykohler)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codycoder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Codycoder's github stats](https://github-readme-stats.vercel.app/api?username=Codycoder&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### Recent Activity
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/WeCanCodeIT/FamilyMeals/issues/3) in [WeCanCodeIT/FamilyMeals](https://github.com/WeCanCodeIT/FamilyMeals)
-2. ❗️ Opened issue [#3](https://github.com/WeCanCodeIT/FamilyMeals/issues/3) in [WeCanCodeIT/FamilyMeals](https://github.com/WeCanCodeIT/FamilyMeals)
-3. 🎉 Merged PR [#1](https://github.com/WeCanCodeIT/food_page/pull/1) in [WeCanCodeIT/food_page](https://github.com/WeCanCodeIT/food_page)
-4. 💪 Opened PR [#1](https://github.com/WeCanCodeIT/food_page/pull/1) in [WeCanCodeIT/food_page](https://github.com/WeCanCodeIT/food_page)
-<!--END_SECTION:activity-->
-
-
----
-### My Latest Medium Essay: 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@andykohler/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@andykohler/0" alt="Recent Article 0"> 
-
